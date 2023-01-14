@@ -39,7 +39,6 @@ print(10 / 3)
 print(10 // 3)
 print(10 % 3)
 
-
 n = 123
 f = 456.689
 print(r'hello,"howard"')
